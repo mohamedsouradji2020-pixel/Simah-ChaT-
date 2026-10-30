@@ -23,10 +23,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'REMPLACE_MOI_apiKey',
-    appId: 'REMPLACE_MOI_appId',
-    messagingSenderId: 'REMPLACE_MOI_messagingSenderId',
-    projectId: 'REMPLACE_MOI_projectId',
-    storageBucket: 'REMPLACE_MOI_projectId.appspot.com',
+    apiKey: 'AIzaSyBaVDomZM-SZPoJuSpNVhimj0lUF6hwWoA',
+    appId: '1:655958687566:android:1a84463122b004b6f2e81f',
+    messagingSenderId: '655958687566',
+    projectId: 'simah-app',
+    storageBucket: 'simah-app.firebasestorage.app',
   );
 }

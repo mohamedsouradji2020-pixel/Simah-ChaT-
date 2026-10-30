@@ -1,24 +1,22 @@
 {
   "project_info": {
-    "project_number": "000000000000",
-    "project_id": "REMPLACE-MOI",
-    "storage_bucket": "REMPLACE-MOI.appspot.com"
+    "project_number": "655958687566",
+    "project_id": "simah-app",
+    "storage_bucket": "simah-app.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:000000000000:android:0000000000000000000000",
+        "mobilesdk_app_id": "1:655958687566:android:1a84463122b004b6f2e81f",
         "android_client_info": {
           "package_name": "com.chatmoderne.app"
         }
       },
       "oauth_client": [],
       "api_key": [
-        { "current_key": "REMPLACE-MOI" }
+        { "current_key": "AIzaSyBaVDomZM-SZPoJuSpNVhimj0lUF6hwWoA" }
       ],
-      "services": {
-        "appinvite_service": { "other_platform_oauth_client": [] }
-      }
+      "services": { "appinvite_service": { "other_platform_oauth_client": [] } }
     }
   ],
   "configuration_version": "1"
